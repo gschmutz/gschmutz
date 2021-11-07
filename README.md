@@ -6,6 +6,6 @@ I'm a Platform Architect at Trivadis, part of Accenture, as well as an Oracle Gr
 
 ✍️ Blog: http://guidoschmutz.wordpress.com
 
-🎥 Youtube: https://www.youtube.com/c/gschmutz
+🎥 Youtube: https://www.youtube.com/user/guidoschmutz
 
 
