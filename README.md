@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Platform Architect at Trivadis, part of Accenture, as well as an Oracle Groundbreakers Ambassador. 
+I'm a Platform Architect at Trivadis, part of Accenture. 
 
 ✍️ Blog: http://gschmutz.net/
 
