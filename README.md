@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Platform Architect at Trivadis, part of Accenture. 
+I'm a Platform Architect at Accenture. 
 
 ✍️ Blog: http://gschmutz.net/
 
